@@ -1,0 +1,8 @@
+#pluno-chat-widget, .pluno-chat-widget-container {
+  position: fixed !important;
+  right: 24px !important;
+  bottom: 24px !important;
+  z-index: 9999 !important;
+  max-width: 400px !important;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.2);
+} 

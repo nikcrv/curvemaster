@@ -1,0 +1,22 @@
+site_name: CurveMaster (test)
+site_url: https://github.com/ivanov/curvemaster/
+repo_url: https://github.com/ivanov/curvemaster
+repo_name: GitHub
+edit_uri: "edit/main/docs/"
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.instant
+    - search.highlight
+
+docs_dir: docs
+
+extra_javascript:
+  - assets/chat-widget.js
+
+extra_css:
+  - assets/custom-widget.css
+
+site_dir: site
