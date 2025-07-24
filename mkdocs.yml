@@ -1,6 +1,6 @@
 site_name: CurveMaster (test)
-site_url: https://github.com/ivanov/curvemaster/
-repo_url: https://github.com/ivanov/curvemaster
+# site_url: https://github.com/nikcrv/curvemaster/
+repo_url: https://github.com/nikcrv/curvemaster
 repo_name: GitHub
 edit_uri: "edit/main/docs/"
 
