@@ -438,53 +438,79 @@
           exitButton.onclick = toggleFullscreen;
           ecosystemContainer.appendChild(exitButton);
           
-          // Create control buttons overlay
+          // Hide original controls during fullscreen
+          const originalControls = document.querySelector('.ecosystem-controls-wrapper');
+          if (originalControls) {
+            originalControls.style.display = 'none';
+          }
+          
+          // Create control buttons overlay - only essential controls
           const controlsOverlay = document.createElement('div');
           controlsOverlay.id = 'fullscreen-controls';
           controlsOverlay.style.cssText = `
             position: fixed;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
+            bottom: 30px;
+            left: 30px;
             z-index: 10001;
             display: flex;
             gap: 15px;
-            background: rgba(0, 0, 0, 0.7);
-            padding: 15px 25px;
-            border-radius: 12px;
-            backdrop-filter: blur(10px);
-            flex-wrap: nowrap;
-            align-items: center;
+            flex-direction: row;
           `;
+          
+          // Individual button style
+          const buttonStyle = `
+            padding: 10px 20px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+          `;
+          
           controlsOverlay.innerHTML = `
-            <button onclick="resetZoom()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">🔄 Сброс</button>
-            <button onclick="toggleAnimation()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">✨ Анимация</button>
-            <button onclick="toggleLabels()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">🏷️ Метки</button>
+            <button onclick="resetZoom()" style="${buttonStyle}">🔄 Сброс масштаба</button>
+            <button onclick="toggleAnimation()" style="${buttonStyle}">✨ Анимация</button>
+            <button onclick="toggleLabels()" style="${buttonStyle}">🏷️ Метки</button>
           `;
           ecosystemContainer.appendChild(controlsOverlay);
           
           // Add hover effect to buttons
           const buttons = controlsOverlay.querySelectorAll('button');
           buttons.forEach(btn => {
-            btn.onmouseover = function() { this.style.background = 'rgba(255,255,255,0.2)'; };
-            btn.onmouseout = function() { this.style.background = 'rgba(255,255,255,0.1)'; };
+            btn.onmouseover = function() { 
+              this.style.background = 'rgba(0, 0, 0, 0.9)'; 
+              this.style.transform = 'translateY(-2px)';
+              this.style.boxShadow = '0 4px 15px rgba(0, 0, 0, 0.4)';
+            };
+            btn.onmouseout = function() { 
+              this.style.background = 'rgba(0, 0, 0, 0.8)'; 
+              this.style.transform = 'translateY(0)';
+              this.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.3)';
+            };
           });
           
           // Adjust for mobile screens
           if (window.innerWidth < 768) {
-            controlsOverlay.style.left = '10px';
-            controlsOverlay.style.right = '10px';
-            controlsOverlay.style.transform = 'none';
+            controlsOverlay.style.flexDirection = 'column';
+            controlsOverlay.style.left = '20px';
+            controlsOverlay.style.bottom = '80px';
             controlsOverlay.style.gap = '10px';
-            controlsOverlay.style.padding = '10px 15px';
             
             buttons.forEach(btn => {
-              btn.style.padding = '6px 12px';
-              btn.style.fontSize = '12px';
+              btn.style.padding = '8px 16px';
+              btn.style.fontSize = '13px';
+              btn.style.width = '100%';
             });
             
             exitButton.style.padding = '8px 16px';
-            exitButton.style.fontSize = '12px';
+            exitButton.style.fontSize = '13px';
+            exitButton.style.top = '10px';
+            exitButton.style.right = '10px';
           }
           
           // Update main button text
@@ -508,6 +534,12 @@
           const controlsOverlay = document.getElementById('fullscreen-controls');
           if (exitBtn) exitBtn.remove();
           if (controlsOverlay) controlsOverlay.remove();
+          
+          // Show original controls
+          const originalControls = document.querySelector('.ecosystem-controls-wrapper');
+          if (originalControls) {
+            originalControls.style.display = '';
+          }
           
           // Restore original styles
           ecosystemContainer.style.position = '';
