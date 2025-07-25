@@ -1377,3 +1377,9 @@ INFO    -  The following pages exist in the docs directory, but are not included
   - projects/llamalend.md
 INFO    -  Documentation built in 0.77 seconds
 INFO    -  [16:01:33] Reloading browsers
+INFO    -  [16:02:43] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:02:44] Reloading browsers

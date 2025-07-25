@@ -397,6 +397,7 @@
     
     window.toggleFullscreen = function() {
       const ecosystemContainer = document.querySelector('.ecosystem-container');
+      const mapElement = document.getElementById('ecosystem-map');
       
       if (!document.fullscreenElement) {
         // Enter fullscreen - use the whole ecosystem container
@@ -413,11 +414,54 @@
           ecosystemContainer.style.flexDirection = 'column';
           
           // Make map fill available space
-          const mapElement = document.getElementById('ecosystem-map');
           mapElement.style.flex = '1';
-          mapElement.style.height = 'calc(100vh - 100px)'; // Leave space for controls
+          mapElement.style.height = '100vh';
           
-          // Update button text
+          // Create exit fullscreen button overlay
+          const exitButton = document.createElement('button');
+          exitButton.id = 'fullscreen-exit-btn';
+          exitButton.innerHTML = '⬜ Выйти из полноэкранного режима';
+          exitButton.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 10001;
+            padding: 10px 20px;
+            background: var(--md-primary-fg-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+          `;
+          exitButton.onclick = toggleFullscreen;
+          ecosystemContainer.appendChild(exitButton);
+          
+          // Create control buttons overlay
+          const controlsOverlay = document.createElement('div');
+          controlsOverlay.id = 'fullscreen-controls';
+          controlsOverlay.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10001;
+            display: flex;
+            gap: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 10px 20px;
+            border-radius: 12px;
+            backdrop-filter: blur(10px);
+          `;
+          controlsOverlay.innerHTML = `
+            <button onclick="resetZoom()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">🔄 Сброс</button>
+            <button onclick="toggleAnimation()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">✨ Анимация</button>
+            <button onclick="toggleLabels()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">🏷️ Метки</button>
+          `;
+          ecosystemContainer.appendChild(controlsOverlay);
+          
+          // Update main button text
           const btn = document.querySelector('button[onclick="toggleFullscreen()"]');
           if (btn) btn.innerHTML = '⬜ Выйти';
           
@@ -433,6 +477,12 @@
       } else {
         // Exit fullscreen
         document.exitFullscreen().then(() => {
+          // Remove overlay buttons
+          const exitBtn = document.getElementById('fullscreen-exit-btn');
+          const controlsOverlay = document.getElementById('fullscreen-controls');
+          if (exitBtn) exitBtn.remove();
+          if (controlsOverlay) controlsOverlay.remove();
+          
           // Restore original styles
           ecosystemContainer.style.position = '';
           ecosystemContainer.style.top = '';
@@ -445,7 +495,6 @@
           ecosystemContainer.style.flexDirection = '';
           
           // Restore map element styles
-          const mapElement = document.getElementById('ecosystem-map');
           mapElement.style.flex = '';
           mapElement.style.height = '';
           
