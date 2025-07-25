@@ -5,15 +5,9 @@
 ## 📊 Аналитика и данные
 
 ### Дашборды
-- [DeFiLlama Curve](https://defillama.com/protocol/curve) - TVL и метрики протокола
-- [Dune Analytics Curve](https://dune.com/queries?q=curve) - Детальная аналитика
-- [Token Terminal Curve](https://tokenterminal.com/terminal/projects/curve) - Финансовые метрики
-- [CurveMonitor](https://curvemonitor.com/) - Мониторинг пулов в реальном времени
+- [DeFiLlama Curve](https://defillama.com/protocol/curve-finance) - TVL и метрики протокола
 
-### Инструменты для трейдинга
-- [Curve Exchange](https://curve.fi/#/ethereum/swap) - Основная платформа обменов
-- [CoinGecko Curve](https://www.coingecko.com/en/coins/curve-dao-token) - Цена CRV токена
-- [CurveMarketCap](https://curvemarketcap.com/) - Рыночная капитализация пулов
+
 
 
 ## 📚 Образовательные ресурсы

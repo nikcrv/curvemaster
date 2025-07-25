@@ -1250,3 +1250,34 @@ INFO    -  Documentation built in 0.53 seconds
 INFO    -  [14:05:35] Reloading browsers
 INFO    -  [14:05:36] Browser connected: http://127.0.0.1:8000/resources/
 INFO    -  [14:06:36] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:07:36] Browser connected: http://127.0.0.1:8000/ecosystem-map/
+INFO    -  [14:08:20] Browser connected: http://127.0.0.1:8000/ecosystem-map/
+INFO    -  [14:09:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [14:09:38] Reloading browsers
+INFO    -  [14:09:42] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:11:20] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  Documentation built in 0.57 seconds
+INFO    -  [14:11:21] Reloading browsers
+INFO    -  [14:11:21] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  Documentation built in 0.78 seconds
+INFO    -  [14:11:22] Reloading browsers
+INFO    -  [14:11:34] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:11:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [14:12:00] Reloading browsers
+INFO    -  [14:12:01] Browser connected: http://127.0.0.1:8000/
