@@ -85,6 +85,21 @@ window.ProjectsData = {
       connections: [
         { target: "curve", type: "veCRV", strength: 0.6 }
       ]
+    },
+
+    stakedao: {
+      title: "StakeDAO",
+      project_type: "yield",
+      tvl: 200000000,
+      market_cap: 50000000,
+      website: "https://stakedao.org/",
+      description: "Liquid lockers и стратегии для Curve экосистемы",
+      icon: "🔐",
+      connections: [
+        { target: "curve", type: "pool_optimization", strength: 0.8 },
+        { target: "convex", type: "governance", strength: 0.5 },
+        { target: "frax", type: "liquidity_partnership", strength: 0.4 }
+      ]
     }
   },
 

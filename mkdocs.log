@@ -1420,3 +1420,50 @@ INFO    -  The following pages exist in the docs directory, but are not included
   - projects/llamalend.md
 INFO    -  [16:10:57] Reloading browsers
 INFO    -  [16:10:58] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [16:11:58] Browser connected: http://127.0.0.1:8000/ecosystem-map/
+INFO    -  [16:14:39] Browser connected: http://127.0.0.1:8000/ecosystem-map/
+INFO    -  [16:16:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:16:49] Reloading browsers
+INFO    -  [16:18:03] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:18:03] Reloading browsers
+INFO    -  [16:31:41] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:47:14] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:47:16] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:47:19] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:48:25] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:48:27] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:48:28] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:48:56] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:49:00] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:49:37] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:49:42] Browser connected: http://127.0.0.1:8000/contribute/
+INFO    -  [16:50:01] Browser connected: http://127.0.0.1:8000/projects/frax/
+INFO    -  [16:56:23] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+WARNING -  A reference to 'projects/stakedao.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  Documentation built in 0.59 seconds
+INFO    -  [16:56:24] Reloading browsers
+INFO    -  [16:56:38] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  Documentation built in 0.44 seconds
+INFO    -  [16:56:39] Reloading browsers
+INFO    -  [16:58:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:58:14] Reloading browsers
