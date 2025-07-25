@@ -1,5 +1,8 @@
 // Project Data - Edit this file to update both map and menu
 // Only this file needs to be edited for projects and connections
+// 
+// ⚠️ ВНИМАНИЕ: Это тестовые данные для демонстрации
+// Полная база проектов экосистемы Curve находится в разработке
 
 window.ProjectsData = {
   // Connection types and their colors
