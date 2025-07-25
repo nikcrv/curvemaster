@@ -1,7 +1,7 @@
 # Интерактивная карта экосистемы Curve
 
 !!! warning "В разработке"
-    Интерактивная карта находится в активной разработке. Некоторые функции могут работать нестабильно.
+    Интерактивная карта находится в активной разработке. Данные на карте являются тестовыми и неполными. Некоторые функции могут работать нестабильно.
 
 <div class="ecosystem-container">
   <div id="ecosystem-map" style="width: 100%; background: var(--md-default-bg-color--lighter); border-radius: 8px; padding: 20px; margin: 0; min-height: 600px;">
