@@ -1467,3 +1467,15 @@ INFO    -  The following pages exist in the docs directory, but are not included
   - projects/crvusd.md
   - projects/llamalend.md
 INFO    -  [16:58:14] Reloading browsers
+INFO    -  [16:58:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:58:38] Reloading browsers
+INFO    -  [16:59:07] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [16:59:09] Reloading browsers
