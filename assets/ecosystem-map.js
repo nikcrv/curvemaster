@@ -448,18 +448,44 @@
             transform: translateX(-50%);
             z-index: 10001;
             display: flex;
-            gap: 10px;
+            gap: 15px;
             background: rgba(0, 0, 0, 0.7);
-            padding: 10px 20px;
+            padding: 15px 25px;
             border-radius: 12px;
             backdrop-filter: blur(10px);
+            flex-wrap: nowrap;
+            align-items: center;
           `;
           controlsOverlay.innerHTML = `
-            <button onclick="resetZoom()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">🔄 Сброс</button>
-            <button onclick="toggleAnimation()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">✨ Анимация</button>
-            <button onclick="toggleLabels()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer;">🏷️ Метки</button>
+            <button onclick="resetZoom()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">🔄 Сброс</button>
+            <button onclick="toggleAnimation()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">✨ Анимация</button>
+            <button onclick="toggleLabels()" style="padding: 8px 16px; background: rgba(255,255,255,0.1); color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap; font-size: 14px; transition: background 0.2s;">🏷️ Метки</button>
           `;
           ecosystemContainer.appendChild(controlsOverlay);
+          
+          // Add hover effect to buttons
+          const buttons = controlsOverlay.querySelectorAll('button');
+          buttons.forEach(btn => {
+            btn.onmouseover = function() { this.style.background = 'rgba(255,255,255,0.2)'; };
+            btn.onmouseout = function() { this.style.background = 'rgba(255,255,255,0.1)'; };
+          });
+          
+          // Adjust for mobile screens
+          if (window.innerWidth < 768) {
+            controlsOverlay.style.left = '10px';
+            controlsOverlay.style.right = '10px';
+            controlsOverlay.style.transform = 'none';
+            controlsOverlay.style.gap = '10px';
+            controlsOverlay.style.padding = '10px 15px';
+            
+            buttons.forEach(btn => {
+              btn.style.padding = '6px 12px';
+              btn.style.fontSize = '12px';
+            });
+            
+            exitButton.style.padding = '8px 16px';
+            exitButton.style.fontSize = '12px';
+          }
           
           // Update main button text
           const btn = document.querySelector('button[onclick="toggleFullscreen()"]');
