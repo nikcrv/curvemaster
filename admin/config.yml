@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: nikcrv/curvemaster
+  branch: main
+  
+# Для работы нужна OAuth App: https://github.com/settings/applications/new
+# base_url: https://your-oauth-provider.com
+# auth_endpoint: api/auth
+
+media_folder: "docs/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "projects"
+    label: "Проекты экосистемы"
+    folder: "docs/projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Название", name: "title", widget: "string"}
+      - {label: "Описание", name: "description", widget: "text"}
+      - {label: "Содержание", name: "body", widget: "markdown"}
+      - {label: "TVL", name: "tvl", widget: "number", required: false}
+      - {label: "Сайт", name: "website", widget: "string", required: false}
+      
+  - name: "resources"
+    label: "Ресурсы"
+    files:
+      - label: "Главная страница"
+        name: "index"
+        file: "docs/index.md"
+        fields:
+          - {label: "Заголовок", name: "title", widget: "string"}
+          - {label: "Содержание", name: "body", widget: "markdown"}
+          
+  - name: "data"
+    label: "Данные проектов"
+    files:
+      - label: "Проекты для карты"
+        name: "projects"
+        file: "docs/assets/projects-data.js"
+        fields:
+          - label: "Проекты"
+            name: "projects"
+            widget: "list"
+            fields:
+              - {label: "ID", name: "id", widget: "string"}
+              - {label: "Название", name: "title", widget: "string"}
+              - {label: "Тип", name: "project_type", widget: "select", options: ["core", "yield", "stablecoin", "lending", "bridge", "governance"]}
+              - {label: "TVL", name: "tvl", widget: "number"}
+              - {label: "Описание", name: "description", widget: "text"}
