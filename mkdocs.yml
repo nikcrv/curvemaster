@@ -7,15 +7,51 @@ edit_uri: "edit/main/docs/"
 theme:
   name: material
   language: ru
+  palette:
+    # Светлая тема
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на темную тему
+    # Темная тема  
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
   features:
     - navigation.instant
     - search.highlight
+    - content.tabs.link
+    - content.code.copy
 
 docs_dir: docs
 
 extra_javascript:
   - assets/chat-widget.js
+  - assets/theme-switcher.js
+  - https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js
+  - assets/projects-data.js
+  - assets/ecosystem-map.js
 
+nav:
+  - Главная: index.md
+  - Проекты:
+    - Основные протоколы:
+      - Curve Finance: projects/curve.md
+    - Yield оптимизация:
+      - Convex Finance: projects/convex.md
+      - Yearn Finance: projects/yearn.md
+    - Стейблкоины:
+      - crvUSD: projects/crvusd.md
+      - Frax Finance: projects/frax.md
+    - Кредитование:
+      - LlamaLend: projects/llamalend.md
+  - Ресурсы: resources.md
+  - Боты: bots.md
 extra_css:
   - assets/custom-widget.css
 

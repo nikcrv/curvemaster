@@ -1,8 +1,156 @@
-#pluno-chat-widget, .pluno-chat-widget-container {
-  position: fixed !important;
-  right: 24px !important;
-  bottom: 24px !important;
-  z-index: 9999 !important;
-  max-width: 400px !important;
-  box-shadow: 0 2px 16px rgba(0,0,0,0.2);
-} 
+/* Official Curve Finance Theme Styles */
+
+/* Light Theme (Default) */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #425493; /* Curve blue 600 */
+  --md-primary-fg-color--light: #5170cc; /* Curve blue 500 */
+  --md-primary-fg-color--dark: #343d7d; /* Curve blue 700 */
+  --md-accent-fg-color: #22be5b; /* Curve green 500 */
+  
+  --md-default-bg-color: #f0edeb; /* Curve light background */
+  --md-default-bg-color--light: #f7f5f4;
+  --md-default-bg-color--lighter: #faf9f8;
+  --md-default-bg-color--lightest: #fdfcfc;
+  
+  --md-default-fg-color: #1f1e1c; /* Curve gray 1100 */
+  --md-default-fg-color--light: #393734; /* Curve gray 1000 */
+  --md-default-fg-color--lighter: #535047; /* Curve gray 900 */
+  --md-default-fg-color--lightest: #6c695a; /* Curve gray 800 */
+  
+  --md-code-bg-color: #eae8e5; /* Curve gray 200 */
+  --md-code-fg-color: #1f1e1c;
+  
+  --md-typeset-a-color: #5170cc; /* Curve blue 500 */
+}
+
+/* Dark Theme */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #5170cc; /* Curve blue 500 */
+  --md-primary-fg-color--light: #809be5; /* Curve blue 400 */
+  --md-primary-fg-color--dark: #425493; /* Curve blue 600 */
+  --md-accent-fg-color: #22be5b; /* Curve green 500 */
+  
+  --md-default-bg-color: #12110f; /* Curve dark background */
+  --md-default-bg-color--light: #191815;
+  --md-default-bg-color--lighter: #1f1e1c;
+  --md-default-bg-color--lightest: #252420;
+  
+  --md-default-fg-color: #f0edeb; /* Curve light text */
+  --md-default-fg-color--light: #e5e2dd;
+  --md-default-fg-color--lighter: #d9d5ce;
+  --md-default-fg-color--lightest: #c3beb4;
+  
+  --md-code-bg-color: #1f1e1c;
+  --md-code-fg-color: #f0edeb;
+  
+  --md-typeset-a-color: #809be5; /* Curve blue 400 */
+}
+
+/* Chad Theme */
+[data-md-color-scheme="curve-chad"] {
+  --md-primary-fg-color: #9482eb; /* Curve violet 500 */
+  --md-primary-fg-color--light: #b1a3f1; /* Curve violet 400 */
+  --md-primary-fg-color--dark: #7869e4; /* Curve violet 600 */
+  --md-accent-fg-color: #22be5b; /* Curve green 500 */
+  
+  --md-default-bg-color: #bdbbec; /* Chad purple background */
+  --md-default-bg-color--light: #c9c7f0;
+  --md-default-bg-color--lighter: #d5d3f4;
+  --md-default-bg-color--lightest: #e1dff8;
+  
+  --md-default-fg-color: #2f2862; /* Curve violet 900 */
+  --md-default-fg-color--light: #403874;
+  --md-default-fg-color--lighter: #514886;
+  --md-default-fg-color--lightest: #625898;
+  
+  --md-code-bg-color: #a29ad4; /* Curve violet 300 */
+  --md-code-fg-color: #2f2862;
+  
+  --md-typeset-a-color: #2f2862; /* Curve violet 900 */
+  
+  /* Chad special font */
+  --md-text-font: "Hubot Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* Chad theme special font for headings */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+[data-md-color-scheme="curve-chad"] .md-typeset h1,
+[data-md-color-scheme="curve-chad"] .md-typeset h2,
+[data-md-color-scheme="curve-chad"] .md-typeset h3 {
+  font-family: 'Press Start 2P', cursive;
+  line-height: 1.4;
+}
+
+[data-md-color-scheme="curve-chad"] .md-typeset h1 {
+  font-size: 1.5rem;
+}
+
+[data-md-color-scheme="curve-chad"] .md-typeset h2 {
+  font-size: 1.2rem;
+}
+
+[data-md-color-scheme="curve-chad"] .md-typeset h3 {
+  font-size: 1rem;
+}
+
+/* Table styling updates */
+.md-typeset table {
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table th {
+  background-color: var(--md-default-bg-color--lighter);
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+}
+
+.md-typeset table tr:nth-child(even) {
+  background-color: var(--md-default-bg-color--light);
+}
+
+/* Remove old theme switcher styles */
+.theme-switcher-header,
+.curve-theme-toggle,
+.theme-selector {
+  display: none !important;
+}
+
+/* Chad theme special animations */
+@keyframes pixelGlow {
+  0% { 
+    text-shadow: 0 0 5px var(--md-primary-fg-color),
+                 2px 2px 0 var(--md-accent-fg-color);
+  }
+  50% { 
+    text-shadow: 0 0 20px var(--md-primary-fg-color),
+                 4px 4px 0 var(--md-accent-fg-color),
+                 -2px -2px 0 var(--md-primary-fg-color--dark);
+  }
+  100% { 
+    text-shadow: 0 0 5px var(--md-primary-fg-color),
+                 2px 2px 0 var(--md-accent-fg-color);
+  }
+}
+
+[data-md-color-scheme="curve-chad"] .md-typeset a:hover {
+  animation: pixelGlow 2s infinite;
+  text-decoration: none;
+}
+
+/* Hide default MkDocs theme toggle */
+.md-header__button.md-icon[for^="__palette"] {
+  display: none !important;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .theme-switcher-header {
+    margin-right: 8px;
+  }
+  
+  .theme-switcher-header select {
+    font-size: 0.75rem;
+    padding: 2px 6px;
+  }
+}
