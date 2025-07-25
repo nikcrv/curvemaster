@@ -7,6 +7,8 @@ edit_uri: "edit/main/docs/"
 theme:
   name: material
   language: ru
+  icon:
+    edit: material/pencil
   palette:
     # Светлая тема
     - scheme: default
@@ -27,6 +29,7 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.copy
+    - content.action.edit
 
 docs_dir: docs
 
@@ -47,6 +50,7 @@ nav:
     - Frax Finance: projects/frax.md
   - Ресурсы: resources.md
   - Боты: bots.md
+  - Внести вклад: contribute.md
 extra_css:
   - assets/custom-widget.css
 
