@@ -396,26 +396,33 @@
     };
     
     window.toggleFullscreen = function() {
-      const mapContainer = document.getElementById('ecosystem-map');
+      const ecosystemContainer = document.querySelector('.ecosystem-container');
       
       if (!document.fullscreenElement) {
-        // Enter fullscreen
-        mapContainer.requestFullscreen().then(() => {
-          // Apply fullscreen styles
-          mapContainer.style.position = 'fixed';
-          mapContainer.style.top = '0';
-          mapContainer.style.left = '0';
-          mapContainer.style.width = '100vw';
-          mapContainer.style.height = '100vh';
-          mapContainer.style.zIndex = '9999';
-          mapContainer.style.background = 'var(--md-default-bg-color)';
+        // Enter fullscreen - use the whole ecosystem container
+        ecosystemContainer.requestFullscreen().then(() => {
+          // Apply fullscreen styles to container
+          ecosystemContainer.style.position = 'fixed';
+          ecosystemContainer.style.top = '0';
+          ecosystemContainer.style.left = '0';
+          ecosystemContainer.style.width = '100vw';
+          ecosystemContainer.style.height = '100vh';
+          ecosystemContainer.style.zIndex = '9999';
+          ecosystemContainer.style.background = 'var(--md-default-bg-color)';
+          ecosystemContainer.style.display = 'flex';
+          ecosystemContainer.style.flexDirection = 'column';
+          
+          // Make map fill available space
+          const mapElement = document.getElementById('ecosystem-map');
+          mapElement.style.flex = '1';
+          mapElement.style.height = 'calc(100vh - 100px)'; // Leave space for controls
           
           // Update button text
           const btn = document.querySelector('button[onclick="toggleFullscreen()"]');
           if (btn) btn.innerHTML = '⬜ Выйти';
           
           // Resize SVG
-          const rect = mapContainer.getBoundingClientRect();
+          const rect = mapElement.getBoundingClientRect();
           svg.attr('viewBox', `0 0 ${rect.width} ${rect.height}`);
           
           // Center the simulation
@@ -427,13 +434,20 @@
         // Exit fullscreen
         document.exitFullscreen().then(() => {
           // Restore original styles
-          mapContainer.style.position = '';
-          mapContainer.style.top = '';
-          mapContainer.style.left = '';
-          mapContainer.style.width = '100%';
-          mapContainer.style.height = '';
-          mapContainer.style.zIndex = '';
-          mapContainer.style.background = '';
+          ecosystemContainer.style.position = '';
+          ecosystemContainer.style.top = '';
+          ecosystemContainer.style.left = '';
+          ecosystemContainer.style.width = '';
+          ecosystemContainer.style.height = '';
+          ecosystemContainer.style.zIndex = '';
+          ecosystemContainer.style.background = '';
+          ecosystemContainer.style.display = '';
+          ecosystemContainer.style.flexDirection = '';
+          
+          // Restore map element styles
+          const mapElement = document.getElementById('ecosystem-map');
+          mapElement.style.flex = '';
+          mapElement.style.height = '';
           
           // Update button text
           const btn = document.querySelector('button[onclick="toggleFullscreen()"]');

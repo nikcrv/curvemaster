@@ -203,6 +203,25 @@
   filter: brightness(1.2);
 }
 
+/* Fullscreen mode styles */
+.ecosystem-container:fullscreen {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.ecosystem-container:fullscreen .ecosystem-controls-wrapper {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10000;
+  margin-top: 0;
+}
+
+.ecosystem-container:fullscreen #ecosystem-map {
+  margin-bottom: 0;
+}
+
 /* Responsive */
 @media screen and (max-width: 768px) {
   .ecosystem-controls-row {
@@ -227,6 +246,12 @@
   .legend-items {
     flex-direction: column;
     gap: 8px;
+  }
+  
+  .ecosystem-container:fullscreen .ecosystem-controls-wrapper {
+    left: 20px;
+    right: 20px;
+    transform: none;
   }
 }
 </style>
