@@ -39,17 +39,12 @@ extra_javascript:
 
 nav:
   - Главная: index.md
-  - Проекты:
-    - Основные протоколы:
-      - Curve Finance: projects/curve.md
-    - Yield оптимизация:
-      - Convex Finance: projects/convex.md
-      - Yearn Finance: projects/yearn.md
-    - Стейблкоины:
-      - crvUSD: projects/crvusd.md
-      - Frax Finance: projects/frax.md
-    - Кредитование:
-      - LlamaLend: projects/llamalend.md
+  - Интерактивная карта: ecosystem-map.md
+  - Протоколы экосистемы:
+    - Curve Finance: projects/curve.md
+    - Convex Finance: projects/convex.md
+    - Yearn Finance: projects/yearn.md
+    - Frax Finance: projects/frax.md
   - Ресурсы: resources.md
   - Боты: bots.md
 extra_css:

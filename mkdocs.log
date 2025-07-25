@@ -4,3 +4,1249 @@ INFO    -  Documentation built in 0.63 seconds
 INFO    -  [22:06:20] Watching paths for changes: 'docs', 'mkdocs.yml'
 INFO    -  [22:06:20] Serving on http://127.0.0.1:8000/
 INFO    -  [22:06:49] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:39:55] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.86 seconds
+INFO    -  [11:39:56] Reloading browsers
+INFO    -  [11:40:36] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.80 seconds
+INFO    -  [11:40:37] Reloading browsers
+INFO    -  [11:41:13] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.71 seconds
+INFO    -  [11:41:14] Reloading browsers
+INFO    -  [11:41:19] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.68 seconds
+INFO    -  [11:41:20] Reloading browsers
+INFO    -  [11:42:23] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:42:35] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:43:33] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:43:40] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:47:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.39 seconds
+INFO    -  [11:47:31] Reloading browsers
+INFO    -  [11:47:32] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:48:08] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.37 seconds
+INFO    -  [11:48:08] Reloading browsers
+INFO    -  [11:48:09] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:48:48] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:50:48] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:51:16] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:53:16] Browser connected: http://127.0.0.1:8000/bots/
+INFO    -  [11:53:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.45 seconds
+INFO    -  [11:53:47] Reloading browsers
+INFO    -  [11:53:48] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:54:00] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.42 seconds
+INFO    -  [11:54:01] Reloading browsers
+INFO    -  [11:54:02] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:54:58] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:55:08] Browser connected: http://127.0.0.1:8000/
+INFO    -  [11:55:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.61 seconds
+INFO    -  [11:55:48] Reloading browsers
+INFO    -  [11:55:48] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:56:00] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.49 seconds
+INFO    -  [11:56:01] Reloading browsers
+INFO    -  [11:56:01] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:56:12] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.60 seconds
+INFO    -  [11:56:13] Reloading browsers
+INFO    -  [11:56:13] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:56:56] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:59:44] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [11:59:58] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:02:06] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:03:04] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.41 seconds
+INFO    -  [12:03:04] Reloading browsers
+INFO    -  [12:10:21] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:10:22] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:10:24] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:10:36] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:11:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:11:15] Reloading browsers
+INFO    -  [12:11:30] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:11:30] Reloading browsers
+INFO    -  [12:14:53] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:13] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:34] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:44] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:45] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.56 seconds
+INFO    -  [12:15:46] Reloading browsers
+INFO    -  [12:15:46] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:48] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:50] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:15:54] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:16:14] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:16:19] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:16:21] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:16:23] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:16:23] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.58 seconds
+INFO    -  [12:16:24] Reloading browsers
+INFO    -  [12:16:25] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:19:25] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:24:49] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:25:33] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:25:39] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:25:40] Reloading browsers
+INFO    -  [12:25:41] Browser connected: http://127.0.0.1:8000/bots/
+INFO    -  [12:26:06] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:26:07] Reloading browsers
+INFO    -  [12:26:08] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:26:21] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.88 seconds
+INFO    -  [12:26:22] Reloading browsers
+INFO    -  [12:26:23] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:27:00] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:29:05] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:29:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:29:15] Reloading browsers
+INFO    -  [12:29:16] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:29:21] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:29:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.84 seconds
+INFO    -  [12:29:32] Reloading browsers
+INFO    -  [12:29:33] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:30:06] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.69 seconds
+INFO    -  [12:30:07] Reloading browsers
+INFO    -  [12:30:09] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:30:22] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.76 seconds
+INFO    -  [12:30:23] Reloading browsers
+INFO    -  [12:30:24] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:30:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:30:35] Reloading browsers
+INFO    -  [12:30:36] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:31:09] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:31:11] Reloading browsers
+INFO    -  [12:31:12] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:31:50] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.38 seconds
+INFO    -  [12:31:51] Reloading browsers
+INFO    -  [12:31:51] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:32:05] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:32:15] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:32:15] Reloading browsers
+INFO    -  [12:32:17] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:33:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.73 seconds
+INFO    -  [12:33:55] Reloading browsers
+INFO    -  [12:33:56] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:34:09] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:34:10] Reloading browsers
+INFO    -  [12:34:10] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:35:55] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.40 seconds
+INFO    -  [12:35:56] Reloading browsers
+INFO    -  [12:35:57] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:36:44] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.85 seconds
+INFO    -  [12:36:45] Reloading browsers
+INFO    -  [12:36:46] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:37:28] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:37:45] Browser connected: http://127.0.0.1:8000/
+WARNING -  [12:38:22] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:38:25] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.96 seconds
+INFO    -  [12:38:26] Reloading browsers
+INFO    -  [12:38:27] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:38:30] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:38:38] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:38:43] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:38:44] Reloading browsers
+INFO    -  [12:38:44] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:38:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:38:54] Reloading browsers
+INFO    -  [12:38:55] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:39:05] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:39:06] Reloading browsers
+INFO    -  [12:39:07] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:39:12] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.70 seconds
+INFO    -  [12:39:13] Reloading browsers
+INFO    -  [12:39:13] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:39:38] Browser connected: http://127.0.0.1:8000/
+WARNING -  [12:39:45] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [12:40:55] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:40:56] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.82 seconds
+INFO    -  [12:40:57] Reloading browsers
+WARNING -  [12:40:58] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [12:41:00] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:41:03] Browser connected: http://127.0.0.1:8000/
+WARNING -  [12:41:34] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:41:35] Browser connected: http://127.0.0.1:8000/
+WARNING -  [12:42:31] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:42:32] Browser connected: http://127.0.0.1:8000/
+WARNING -  [12:44:18] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [12:44:22] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:44:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:44:38] Reloading browsers
+INFO    -  [12:44:40] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:47:04] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.36 seconds
+INFO    -  [12:47:05] Reloading browsers
+INFO    -  [12:47:05] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:47:06] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:47:07] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:47:31] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:47:32] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:47:45] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:47:55] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:47:56] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:48:27] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:48:27] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:48:57] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:48:58] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:49:04] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/yield/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/stablecoins/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:49:04] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:49:29] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/stablecoins/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:49:30] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:49:50] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:49:51] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:50:39] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:50:40] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:50:45] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:50:46] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:50:51] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🌊.svg
+ERROR   -  [12:50:52] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:53:16] Detected file changes
+INFO    -  Building documentation...
+Traceback (most recent call last):
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/livereload/__init__.py", line 211, in _build_loop
+    self.builder()
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/serve.py", line 67, in builder
+    build(config, serve_url=None if is_clean else serve_url, dirty=is_dirty)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 328, in build
+    _build_theme_template(template, env, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 103, in _build_theme_template
+    output = _build_template(template_name, template, files, config, nav)
+  File "/home/botland/.local/lib/python3.10/site-packages/mkdocs/commands/build.py", line 83, in _build_template
+    output = template.render(context)
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/404.html", line 4, in top-level template code
+    {% extends "main.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/main.html", line 4, in top-level template code
+    {% extends "base.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 154, in top-level template code
+    {% block site_nav %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/base.html", line 162, in block 'site_nav'
+    {% include "partials/nav.html" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav.html", line 27, in top-level template code
+    {{ item.render(nav_item, path, 1) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 121, in template
+    {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 154, in template
+    {{ render_content(nav_item) }}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/runtime.py", line 782, in _invoke
+    rv = self._func(*arguments)
+  File "/home/botland/.local/lib/python3.10/site-packages/material/templates/partials/nav-item.html", line 16, in template
+    {% include ".icons/" ~ nav_item.meta.icon ~ ".svg" %}
+  File "/home/botland/.local/lib/python3.10/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: .icons/🔺.svg
+ERROR   -  [12:53:17] An error happened during the rebuild. The server will appear stuck until build errors are resolved.
+INFO    -  [12:53:25] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [12:53:26] Reloading browsers
+INFO    -  [12:53:26] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 1.02 seconds
+INFO    -  [12:53:28] Reloading browsers
+INFO    -  [12:53:32] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [12:54:32] Browser connected: http://127.0.0.1:8000/
+INFO    -  [12:56:04] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:00:33] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.95 seconds
+INFO    -  [13:00:34] Reloading browsers
+INFO    -  [13:00:35] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:00:49] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.79 seconds
+INFO    -  [13:00:50] Reloading browsers
+INFO    -  [13:00:50] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:00:57] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/core/curve.md
+  - projects/lending/llamalend.md
+  - projects/stablecoins/crvusd.md
+  - projects/stablecoins/frax.md
+  - projects/yield/convex.md
+  - projects/yield/yearn.md
+WARNING -  A reference to 'projects/curve.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/convex.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  Documentation built in 0.87 seconds
+INFO    -  [13:00:58] Reloading browsers
+INFO    -  [13:00:58] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:07] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/curve.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/convex.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  Documentation built in 0.72 seconds
+INFO    -  [13:01:08] Reloading browsers
+INFO    -  [13:01:09] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:17] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/convex.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  [13:01:18] Reloading browsers
+INFO    -  [13:01:20] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:25] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  [13:01:27] Reloading browsers
+INFO    -  [13:01:28] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:31] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/yearn.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  [13:01:32] Reloading browsers
+INFO    -  [13:01:32] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/crvusd.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  [13:01:33] Browser connected: http://127.0.0.1:8000/
+INFO    -  Documentation built in 0.91 seconds
+INFO    -  [13:01:34] Reloading browsers
+INFO    -  [13:01:35] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:41] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/frax.md' is included in the 'nav' configuration, which is not found in the documentation files.
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  [13:01:42] Reloading browsers
+INFO    -  [13:01:42] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:49] Detected file changes
+INFO    -  Building documentation...
+WARNING -  A reference to 'projects/llamalend.md' is included in the 'nav' configuration, which is not found in the documentation files.
+INFO    -  Documentation built in 0.47 seconds
+INFO    -  [13:01:49] Reloading browsers
+INFO    -  [13:01:50] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:01:55] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.74 seconds
+INFO    -  [13:01:56] Reloading browsers
+INFO    -  [13:01:56] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:02:20] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:02:49] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:03:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.55 seconds
+INFO    -  [13:03:55] Reloading browsers
+INFO    -  [13:03:56] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:04:03] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/convex.md
+  - projects/crvusd.md
+  - projects/curve.md
+  - projects/frax.md
+  - projects/llamalend.md
+  - projects/yearn.md
+INFO    -  Documentation built in 0.51 seconds
+INFO    -  [13:04:04] Reloading browsers
+INFO    -  [13:04:04] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:04:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.66 seconds
+INFO    -  [13:04:48] Reloading browsers
+INFO    -  [13:04:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:04:49] Reloading browsers
+INFO    -  [13:04:52] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:07:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:07:48] Reloading browsers
+INFO    -  [13:07:49] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:07:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:07:54] Reloading browsers
+WARNING -  [13:07:54] "GET /assets/menu-generator.js HTTP/1.1" code 404
+WARNING -  [13:07:54] "GET /assets/metadata-parser.js HTTP/1.1" code 404
+INFO    -  [13:07:55] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:07:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:07:59] Reloading browsers
+WARNING -  [13:08:00] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:00] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:00] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:00] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:00] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:08:00] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:08:00] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:06] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:08:06] Reloading browsers
+WARNING -  [13:08:07] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:07] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:07] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:07] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:07] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:08:07] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:08:07] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:16] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:08:17] Reloading browsers
+WARNING -  [13:08:17] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:17] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:17] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:17] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:08:17] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:17] "GET /projects/frax.md HTTP/1.1" code 404
+INFO    -  [13:08:17] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:25] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.43 seconds
+INFO    -  [13:08:26] Reloading browsers
+WARNING -  [13:08:26] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:26] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:26] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:08:26] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:26] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:26] "GET /projects/frax.md HTTP/1.1" code 404
+INFO    -  [13:08:26] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:08:35] Reloading browsers
+WARNING -  [13:08:36] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:36] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:36] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:36] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:36] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:08:36] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:08:36] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:44] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:08:45] Reloading browsers
+WARNING -  [13:08:45] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:45] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:45] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:45] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:45] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:08:45] "GET /projects/frax.md HTTP/1.1" code 404
+INFO    -  [13:08:46] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:08:52] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:08:53] Reloading browsers
+WARNING -  [13:08:53] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:08:53] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:08:53] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:08:53] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:08:53] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:08:53] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:08:53] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:17:57] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:17:57] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:17:57] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:17:57] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:17:57] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:17:57] "GET /projects/yearn.md HTTP/1.1" code 404
+INFO    -  [13:17:57] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:19] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:18:20] Reloading browsers
+WARNING -  [13:18:20] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:18:20] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:18:20] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:18:20] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:18:20] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:18:20] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:18:21] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:27] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:18:28] Reloading browsers
+INFO    -  [13:18:29] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:18:33] Reloading browsers
+INFO    -  [13:18:33] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.92 seconds
+INFO    -  [13:18:38] Reloading browsers
+WARNING -  [13:18:38] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:18:38] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:18:38] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:18:38] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:18:38] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:18:38] "GET /projects/crvusd.md HTTP/1.1" code 404
+INFO    -  [13:18:39] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.52 seconds
+INFO    -  [13:18:47] Reloading browsers
+INFO    -  [13:18:48] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:18:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:18:54] Reloading browsers
+WARNING -  [13:18:55] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:18:55] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:18:55] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:18:55] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:18:55] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:18:55] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:18:55] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:19:16] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:19:16] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:19:16] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:19:16] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:19:16] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:19:16] "GET /projects/crvusd.md HTTP/1.1" code 404
+INFO    -  [13:19:16] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:19:17] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:19:17] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:19:17] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:19:17] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:19:17] "GET /projects/llamalend.md HTTP/1.1" code 404
+WARNING -  [13:19:17] "GET /projects/frax.md HTTP/1.1" code 404
+INFO    -  [13:19:17] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:19:25] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:19:27] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:19:28] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:20:17] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.67 seconds
+INFO    -  [13:20:18] Reloading browsers
+WARNING -  [13:20:18] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [13:20:19] "GET /projects/curve.md HTTP/1.1" code 404
+WARNING -  [13:20:20] "GET /projects/convex.md HTTP/1.1" code 404
+WARNING -  [13:20:20] "GET /projects/yearn.md HTTP/1.1" code 404
+WARNING -  [13:20:20] "GET /projects/crvusd.md HTTP/1.1" code 404
+WARNING -  [13:20:20] "GET /projects/frax.md HTTP/1.1" code 404
+WARNING -  [13:20:20] "GET /projects/llamalend.md HTTP/1.1" code 404
+INFO    -  [13:20:22] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:20:23] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:20:24] Reloading browsers
+WARNING -  [13:20:25] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:20:27] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:20:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.54 seconds
+INFO    -  [13:20:32] Reloading browsers
+WARNING -  [13:20:32] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:20:35] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:20:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:20:36] Reloading browsers
+WARNING -  [13:20:36] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:20:36] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 1.08 seconds
+INFO    -  [13:20:38] Reloading browsers
+WARNING -  [13:20:39] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:20:41] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:20:41] Browser connected: http://127.0.0.1:8000/
+INFO    -  Documentation built in 1.01 seconds
+INFO    -  [13:20:42] Reloading browsers
+WARNING -  [13:20:42] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:20:46] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:21:01] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.46 seconds
+INFO    -  [13:21:02] Reloading browsers
+WARNING -  [13:21:02] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:21:03] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:21:10] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.50 seconds
+INFO    -  [13:21:11] Reloading browsers
+WARNING -  [13:21:11] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:21:13] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:21:39] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.48 seconds
+INFO    -  [13:21:40] Reloading browsers
+WARNING -  [13:21:40] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:21:42] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:22:15] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:22:19] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:23:36] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:23:37] Reloading browsers
+WARNING -  [13:23:38] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:23:40] Browser connected: http://127.0.0.1:8000/projects/yearn/
+INFO    -  [13:23:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:23:49] Reloading browsers
+WARNING -  [13:23:49] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:23:52] Browser connected: http://127.0.0.1:8000/projects/yearn/
+INFO    -  [13:23:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:23:54] Reloading browsers
+INFO    -  [13:23:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.90 seconds
+INFO    -  [13:23:55] Reloading browsers
+WARNING -  [13:23:55] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+WARNING -  [13:23:59] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:24:00] Browser connected: http://127.0.0.1:8000/projects/yearn/
+INFO    -  [13:27:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:27:35] Reloading browsers
+WARNING -  [13:27:36] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:27:39] Browser connected: http://127.0.0.1:8000/projects/yearn/
+WARNING -  [13:27:53] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:27:53] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:28:38] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:28:39] Reloading browsers
+WARNING -  [13:28:39] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:28:41] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:29:33] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:29:33] Reloading browsers
+WARNING -  [13:29:34] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:29:35] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:30:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:30:35] Reloading browsers
+WARNING -  [13:30:35] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:30:38] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:30:38] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:30:39] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:30:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.75 seconds
+INFO    -  [13:30:48] Reloading browsers
+WARNING -  [13:30:49] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:30:49] Browser connected: http://127.0.0.1:8000/
+WARNING -  [13:30:50] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:30:51] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:31:01] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:31:02] Reloading browsers
+WARNING -  [13:31:02] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:31:03] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:31:10] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Documentation built in 0.64 seconds
+INFO    -  [13:31:10] Reloading browsers
+WARNING -  [13:31:11] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:31:12] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:31:16] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [13:31:16] Reloading browsers
+WARNING -  [13:31:17] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [13:31:18] Browser connected: http://127.0.0.1:8000/
+INFO    -  [13:57:44] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - ecosystem-map.md
+INFO    -  Documentation built in 0.89 seconds
+INFO    -  [13:57:45] Reloading browsers
+INFO    -  [14:00:49] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - ecosystem-map.md
+INFO    -  [14:00:50] Reloading browsers
+INFO    -  [14:00:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [14:01:00] Reloading browsers
+INFO    -  [14:01:36] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:01:38] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:02:02] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:03:11] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [14:03:12] Reloading browsers
+INFO    -  [14:03:12] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:04:45] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [14:04:46] Reloading browsers
+INFO    -  [14:04:47] Browser connected: http://127.0.0.1:8000/
+INFO    -  [14:05:34] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  Documentation built in 0.53 seconds
+INFO    -  [14:05:35] Reloading browsers
+INFO    -  [14:05:36] Browser connected: http://127.0.0.1:8000/resources/
+INFO    -  [14:06:36] Browser connected: http://127.0.0.1:8000/
