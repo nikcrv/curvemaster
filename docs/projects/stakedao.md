@@ -6,6 +6,16 @@
 
 ---
 
+## 🌐 Полезные ссылки
+
+- 🌍 Сайт: [https://www.stakedao.org](https://www.stakedao.org)
+- 📚 Документация: [https://docs.stakedao.org](https://docs.stakedao.org)
+- 🧠 Обзор на Wiki: [https://iq.wiki/wiki/stake-dao](https://iq.wiki/wiki/stake-dao)
+- [Twitter](https://twitter.com/StakeDAOHQ)
+- [Discord](https://discord.gg/stakedao)
+
+---
+
 ## 🔑 Основные возможности
 
 ### 1. Liquid Lockers
@@ -72,12 +82,3 @@ Stake DAO активно использует возможности Curve:
 
 ---
 
-## 🌐 Полезные ссылки
-
-- 🌍 Сайт: [https://www.stakedao.org](https://www.stakedao.org)
-- 📚 Документация: [https://docs.stakedao.org](https://docs.stakedao.org)
-- 🧠 Обзор на Wiki: [https://iq.wiki/wiki/stake-dao](https://iq.wiki/wiki/stake-dao)
-- [Twitter](https://twitter.com/StakeDAOHQ)
-- [Discord](https://discord.gg/stakedao)
-
----
