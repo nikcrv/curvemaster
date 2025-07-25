@@ -1329,3 +1329,13 @@ INFO    -  The following pages exist in the docs directory, but are not included
   - projects/llamalend.md
 INFO    -  Documentation built in 0.98 seconds
 INFO    -  [15:13:24] Reloading browsers
+INFO    -  [15:16:31] Browser connected: http://127.0.0.1:8000/
+INFO    -  [15:17:31] Browser connected: http://127.0.0.1:8000/bots/
+WARNING -  [15:33:05] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" code 404
+INFO    -  [15:33:06] Browser connected: http://127.0.0.1:8000/
+INFO    -  [15:36:00] Detected file changes
+INFO    -  Building documentation...
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - projects/crvusd.md
+  - projects/llamalend.md
+INFO    -  [15:36:01] Reloading browsers
