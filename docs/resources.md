@@ -17,6 +17,8 @@
 | DefiLlama | <https://defillama.com/protocol/curve-finance> | TVL и аналитика Curve |
 | DappRadar | <https://dappradar.com/dapp/curve> | Обзор TVL, аналитика токенов |
 | Dune Analytics | <https://dune.com/browse/dashboards?q=curve> | Пользовательские дашборды Curve |
+| Dune Analytics | <https://crv.lol/> | Статистика доходности ликвидных локеров с встроенной доходностью: asdcrv, yvyCRV, ucvxCRV (CRV Liquid Locker Auto-compounders) |
+
 
 ## 📚 Обучающие материалы
 
