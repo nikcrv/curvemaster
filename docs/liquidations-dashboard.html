@@ -81,12 +81,21 @@
             box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
         
-        .badge-hard {
-            background-color: #ff4444;
+        .bg-danger {
+            background-color: #ff4444 !important;
         }
         
-        .badge-soft {
-            background-color: #4444ff;
+        .bg-primary {
+            background-color: #4444ff !important;
+        }
+        
+        .form-label {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .form-control, .form-select {
+            width: 100%;
         }
     </style>
 </head>
@@ -101,7 +110,7 @@
     <div class="container">
         <!-- Filters Row -->
         <div class="row mb-4">
-            <div class="col-md-3">
+            <div class="col-12 col-sm-6 col-md-3 mb-3 mb-md-0">
                 <div class="filter-card">
                     <label class="form-label">📅 Date Range</label>
                     <input type="date" id="startDate" class="form-control mb-2" value="2024-07-01">
@@ -109,7 +118,7 @@
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-12 col-sm-6 col-md-3 mb-3 mb-md-0">
                 <div class="filter-card">
                     <label class="form-label">🌐 Network</label>
                     <select id="networkFilter" class="form-select">
@@ -122,7 +131,7 @@
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-12 col-sm-6 col-md-3 mb-3 mb-md-0">
                 <div class="filter-card">
                     <label class="form-label">💼 Platform</label>
                     <select id="platformFilter" class="form-select">
@@ -133,7 +142,7 @@
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-12 col-sm-6 col-md-3 mb-3 mb-md-0">
                 <div class="filter-card">
                     <label class="form-label">📊 Type</label>
                     <select id="typeFilter" class="form-select">
@@ -147,28 +156,28 @@
         
         <!-- Statistics Row -->
         <div class="row mb-4">
-            <div class="col-md-3">
+            <div class="col-6 col-lg-3 mb-3 mb-lg-0">
                 <div class="stat-card">
                     <div class="stat-value" id="totalCount">4,282</div>
                     <div class="stat-label">Total Liquidations</div>
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-6 col-lg-3 mb-3 mb-lg-0">
                 <div class="stat-card">
                     <div class="stat-value" id="totalVolume">$73.2M</div>
                     <div class="stat-label">Total Volume (USD)</div>
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-6 col-lg-3 mb-3 mb-lg-0">
                 <div class="stat-card">
                     <div class="stat-value" id="avgSize">$17.1K</div>
                     <div class="stat-label">Average Size</div>
                 </div>
             </div>
             
-            <div class="col-md-3">
+            <div class="col-6 col-lg-3 mb-3 mb-lg-0">
                 <div class="stat-card">
                     <div class="stat-value" id="uniqueUsers">2,845</div>
                     <div class="stat-label">Unique Addresses</div>
@@ -505,7 +514,7 @@
                     <td>${item.date.toLocaleDateString()}</td>
                     <td>${item.network}</td>
                     <td>${item.platform}</td>
-                    <td><span class="badge badge-${item.type}">${item.type}</span></td>
+                    <td><span class="badge ${item.type === 'hard' ? 'bg-danger' : 'bg-primary'}">${item.type.toUpperCase()}</span></td>
                     <td>$${(item.volume / 1000).toFixed(1)}K</td>
                     <td>${item.user}</td>
                 `;
